@@ -93,10 +93,14 @@ me.say_hi()
 
 ### 📅 Fun Facts about me
 
-> "I can solve a rubic cube in 16 seconds 🤓"
-> "I am a huge anime/manga nerd 🤓🤓"
-> "I am 1800 rated on chess.com 🤓🤓🤓" 
-> "I can recite the complete periodic table from memory 🤓🤓🤓🤓"
+"I can solve a rubic cube in 16 seconds 🤓"
+ 
+"I am a huge anime/manga nerd 🤓🤓"
+ 
+"I am 1800 rated on chess.com 🤓🤓🤓"
+ 
+"I can recite the whole periodic table from memory 🤓🤓🤓🤓"
+
 ---
 
 ### 📊 Visitor Count
